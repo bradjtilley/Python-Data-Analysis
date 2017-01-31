@@ -7,7 +7,7 @@ Created on Thu Jan 19 22:27:41 2017
 # This file creates a basic user-based recommendation system for a sample
 # user/music album/user rating nested dictionary. This code will find the 
 # nearest neighbor for a specified user and recommend that user new albums
-# which they have not rated yet. 
+# which they have not rated yet. The basis of this file comes from Hina Arora.
 
 print ()
 
