@@ -2,7 +2,7 @@
 """
 Created on Thu Jan 19 22:27:41 2017
 
-@author: hina
+@author: bjtilley
 """
 # This file creates a basic user-based recommendation system for a sample
 # user/music album/user rating nested dictionary. This code will find the 
